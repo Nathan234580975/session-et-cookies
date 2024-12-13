@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+header{
+	h2{
+		text-transform: uppercase;
+		letter-spacing: 3px;
+		text-align: center;
+		text-shadow: 3px 3px 8px #040404;
+		color: rgb(167,30,30);
+	}
+}
+
+.flexbox{
+	min-height: 500px;
+	width: 35%;
+	background: rgba(255,255,255,0.829);
+	margin: 0 auto;
+	border-radius: 20px 20px 20px 20px;
+	box-shadow: 10px 11px 11px 3px rgb(23, 199, 230);
+	padding: 15px;
+}
+
+h3{
+	text-align:center;
+}
