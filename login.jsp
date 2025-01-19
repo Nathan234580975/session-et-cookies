@@ -9,7 +9,7 @@
 </head>
 <body>
 	<header>
-    <h2>bienvenue</h2>
+    <h2>veuillez vous identifier</h2>
     </header>
     <main>
     	<div class="flexbox">
@@ -19,7 +19,7 @@
         	<input type="text" id="username" name="username" required placeholder="enter your name"><br><br>
        	 	<label for="password">Mot de passe:</label>
         	<input type="password" id="password" name="password" required placeholder="enter your password"><br><br>
-        	<input type="submit" value="Se connecter">   
+        	<input type="authentification" value="Se connecter">   
     		</form>
     	</div>
     </main>
