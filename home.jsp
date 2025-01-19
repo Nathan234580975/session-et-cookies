@@ -28,7 +28,7 @@
         <p>Nous utilisons des cookies pour améliorer votre expérience. En continuant, vous acceptez l'utilisation de cookies.</p>
         <button id="accept-cookies">Accepter</button>
     </div>
-    <h2>Accueil</h2>
+    <h2>information de connexion</h2>
     <%
         HttpSession existingSession = request.getSession(false);
         String username = (existingSession != null) ? (String) existingSession.getAttribute("user") : "invité";
